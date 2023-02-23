@@ -1,0 +1,71 @@
+h1{
+    position: absolute;
+    left: 36%;
+    top: 3%;
+}
+
+.lauda-lasson{
+    position: relative;
+    top: 10rem;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.custom-add-reset-btn{
+
+    position: relative;
+    top:10rem;
+    margin-left: 42%;
+    margin-right: 42%;
+}
+
+/* .btn-primary, .btn-primary:active {
+    background-color: #8064A2 !important; */
+/* } */
+.work_btn{
+    background-color: rgb(78, 55, 55);
+}
+
+/* .reset.btn{
+
+} */
+
+.to-dos{
+    position: relative;
+    top: 13rem;
+    margin-left: 18%;
+    margin-right: 18%;
+    list-style-type: none;
+    /* display: flex; */
+}
+
+.task-list-item{
+    border: 2px solid rgb(71, 69, 77);
+    background-color: rgb(106, 103, 114);
+    color: aliceblue;
+    margin-top: 1rem;
+    padding: 1rem;
+    /* overflow: scroll; */
+    /* display: flex; */
+    /* align-items: flex-end; */
+    font-family: 'Doppio One', sans-serif;
+}
+
+.delete-icon{
+    color: red;
+    /* margin-left: 10px; */
+    /* margin-right: 2%; */
+    position: absolute;
+    left:55rem;
+    
+}
+
+/* a{
+    display: flex;
+    align-items: flex-end;
+} */
+
+.edit-icon{
+    color: rgb(12, 38, 72);
+    margin-left: 10px;
+}
